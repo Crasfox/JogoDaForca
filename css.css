@@ -1,0 +1,21 @@
+.letra{
+	width:30px;
+	font-size: 30px;
+	text-transform: uppercase;
+	margin: 5px;
+	display: none;
+}
+
+.letraJ{
+	width: 30px;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 5px;
+}
+#dvdisplay{
+	display: block;
+}
+#dvforca{
+	position: absolute;
+}
